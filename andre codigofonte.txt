@@ -3,4 +3,4 @@ sdfjkl sdlf js dlkfjskd
 estas são novas modificações
 uma nova linha foi adicionada neste arquivo de texto
 nova linha linha
-linha2
+linha2 vamos ver se dá conflito!
