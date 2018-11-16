@@ -1,6 +1,6 @@
 ﻿este é um novo arquivo de texto kdsfl dsfksldfksdl
 sdfjkl sdlf js dlkfjskd
 estas são novas modificações
-uma nova linha foi adicionada neste arquivo de texto
+uma nova linha foi adicionada neste arquivo de texto blablabla
 nova linha linha
 linha2 vamos ver se dá conflito!
