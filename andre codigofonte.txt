@@ -1,6 +1,13 @@
 ﻿este é um novo arquivo de texto kdsfl dsfksldfksdl
 sdfjkl sdlf js dlkfjskd
 estas são novas modificações
+<<<<<<< HEAD
 uma nova linha foi adicionada neste arquivo de texto blablabla
 nova linha linha
 linha2 vamos ver se dá conflito!
+=======
+uma nova linha foi adicionada neste arquivo de textoddddd
+nova linha linha
+linha3
+linha2
+>>>>>>> b9f7c82821f8da6e409ba83e9c8ad951d6a3473d
